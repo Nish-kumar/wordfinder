@@ -1,5 +1,5 @@
 """
-Two arguments neede for this .py script.
+Two arguments needed for this .py script.
 1. Matrix with individual characters as csv file
 2. File with search words
 """
