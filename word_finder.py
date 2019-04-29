@@ -1,7 +1,7 @@
 """
 Two arguments needed for this .py script.
 1. Matrix with individual characters as csv file
-2. File with search words
+2. File which contains search words
 """
 
 import subprocess
